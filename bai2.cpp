@@ -76,5 +76,7 @@ int main(){
   } else {
     cout<<"Chuoi khong doi xung";
   }
+  cout<<"Hoàn thành chương trình";
   return 0;
+  
 }
